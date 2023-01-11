@@ -17,7 +17,7 @@
 # hair: CURLY-straight
 # freckles: YES-no
 
-import random #importing this library so we can choose random number later (in this case 0 or 1)
+import random #importing this library so we can choose random number later (in this case, 0 or 1)
 
 #genes of each parent in 2D array:
 mother = [['blue','blue'],['LARGE','LARGE'],['narrow','narrow'],['BROWN','blonde'],['CURLY','straight'],['YES','no']]
