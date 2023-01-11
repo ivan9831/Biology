@@ -47,7 +47,7 @@ for i in range(len(mother)):
 #DNA of baby:	
 print(f'DNA of baby: {baby}\n')
 
-#looking what gene is dominant and appending it to baby
+#looking what gene is dominant and appending it to baby (which represents baby's traits)
 #if both are dominant or neither of them is, then we choose on random
 for i in range(len(baby)):
 	if baby[i][0].isupper == True and baby[i][1] == False: #if mother's gene is dominant and father's gene is recessive
