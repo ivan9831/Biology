@@ -1,2 +1,2 @@
 ## Biology
-This is a example of task in which students can simulate basic principle according to which a baby inherits the traits of its mother and father.
+This is an example of a task where students can use python to simulate the basic principle according to which a baby inherits the traits of its mother and father.
