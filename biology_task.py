@@ -1,4 +1,4 @@
-#dominant gene is written in uppercase, recessive gene is written in lowercase
+#Dominant genes are written in uppercase letters and recessive genes are written in lowercase letters.
 
 #This is one example of gene combination you can set for task:
 #genes of mother:
